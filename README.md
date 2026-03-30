@@ -77,4 +77,4 @@ MarkPin은 다음 정보를 수집하거나 저장합니다:
 
 ---
 
-&copy; 2025 MarkPin. All rights reserved.
+&copy; 2026 MarkPin. All rights reserved.
